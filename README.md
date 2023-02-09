@@ -1,9 +1,9 @@
 ## olá! eu sou o Gustavo Almeida 👋
 
-### contato:
+### contato: gu.almeidan2007@gmial.com
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gu.almeidan2007@gmail.com)  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-almeida-bb1088264/)
-### ☝️ gu.almeidan2007@gmial.com
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-almeida-bb1088264/)
+### ☝️ também uso Linkedin
 
 #
 ![Puff GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAlmeidaPuff&show_icons=true&theme=onedark)
