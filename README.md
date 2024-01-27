@@ -5,7 +5,12 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-almeida-bb1088264/)
 ### ☝️ também uso Linkedin
 
+
+
+
 #
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+color=Orange+Code&pause=1000&width=435&lines=Garoto de Programa" alt="Typing SVG" /></a>
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=GustavoAlmeidaPuff&show_icons=true&theme=onedark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeidaPuff&layout=compact&langs_count=6&theme=onedark"/>
 
