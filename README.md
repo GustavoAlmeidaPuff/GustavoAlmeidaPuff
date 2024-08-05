@@ -10,7 +10,7 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+color=Orange+Code&pause=1000&width=435&lines=Olá, seja bem vindo! sou um programador front end freelancer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+color=Orange+Code&pause=1000&width=435&lines=Olá, seja bem vindo! sou um front-endfreelancer" alt="Typing SVG" /></a>
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=GustavoAlmeidaPuff&show_icons=true&theme=onedark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeidaPuff&layout=compact&langs_count=6&theme=onedark"/>
 
