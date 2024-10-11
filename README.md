@@ -30,3 +30,5 @@
 </div>
 
 ### Evoluindo sempre que possivel, para construir uma carreira admirável!
+
+[![](https://visitcount.itsvg.in/api?id=GustavoAlmeidaPuff&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
