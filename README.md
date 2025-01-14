@@ -31,4 +31,4 @@
 
 ### Evoluindo sempre que possivel, para construir uma carreira admirável!
 
-[![](https://visitcount.itsvg.in/api?id=GustavoAlmeidaPuff&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![Gustavo Almeida profile views](https://u8views.com/api/v1/github/profiles/106288943/views/day-week-month-total-count.svg)](https://u8views.com/github/GustavoAlmeidaPuff)
