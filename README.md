@@ -1,9 +1,9 @@
-## olá! eu sou o Gustavo Almeida 👋
+## hello! i'm Gustavo Almeida 👋
 
-### contato: gu.almeidan2007@gmail.com
+### contact: gu.almeidan2007@gmail.com
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-almeida-bb1088264/)
-### ☝️ também uso Linkedin
+### ☝️ my linkedin
 
 
 
@@ -14,7 +14,7 @@
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=GustavoAlmeidaPuff&show_icons=true&theme=onedark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeidaPuff&layout=compact&langs_count=6&theme=onedark"/>
 
-### tecnologias que eu uso: 👇
+### tecnologies i use: 👇
 
 <div style ="display: inline_block" ><br/>
     <img align="cnter" alt="python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
