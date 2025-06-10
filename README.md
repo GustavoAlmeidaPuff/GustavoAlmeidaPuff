@@ -32,6 +32,6 @@
      <img align="cnter" alt="html5" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
 </div>
 
-### Evoluindo sempre que possivel, para construir uma carreira admirável!
+### Always evolving whenever possible, to build an admirable career!
 
 [![Gustavo Almeida profile views](https://u8views.com/api/v1/github/profiles/106288943/views/total-count.svg)](https://u8views.com/github/GustavoAlmeidaPuff)
