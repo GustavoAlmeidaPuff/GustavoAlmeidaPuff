@@ -15,9 +15,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeidaPuff&layout=compact&langs_count=6&theme=onedark"/>
 
 <br>
-<div>
-     <img align="cnter" alt="html5" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
-</div>
+
 
 ### Always evolving whenever possible, to build an admirable career!
 
